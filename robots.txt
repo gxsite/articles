@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gxsite.github.io/articles/sitemap.xml
