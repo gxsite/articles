@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /login/
-Allow: /
-
-Sitemap: https://gxsite.github.io/articles/sitemap.xml
